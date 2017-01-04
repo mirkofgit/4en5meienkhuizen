@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 32,
+    "uniqCompNum": 36,
     "versionPublish": "3.10.5",
     "favicon": "@PROJECT_PATH@/assets/images/logo-stichting-128x113.png",
     "noImageResize": "true"
@@ -77,7 +77,7 @@
             }
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Stichting 4 en 5 mei anti-discriminatie comité Enkhuizen</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>Comite</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-pages mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>Activiteiten</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>Monumenten</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>Comite</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-pages mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>Activiteiten</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>Monumenten</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-camera mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>Fotos</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NelsonMandelaDreef2016.html\">Nelson Mandela Dreef 2016</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>"
         },
         {
           "alias": "purity/components",
@@ -303,8 +303,10 @@
         }
       ]
     },
-    "page1.html": {
-      "settings": {},
+    "NelsonMandelaDreef2016.html": {
+      "settings": {
+        "title": ""
+      },
       "components": [
         {
           "_inherit": "dropdown-menu",
@@ -359,7 +361,64 @@
             }
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Stichting 4 en 5 mei anti-discriminatie comité Enkhuizen</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>Comite</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"mbri-pages mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>Activiteiten</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>Monumenten</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>Comite</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-pages mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>Activiteiten</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>Monumenten</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-camera mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>Fotos</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NelsonMandelaDreef2016.html\">Nelson Mandela Dreef 2016</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 0,
+            "images": [
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-4192-2-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-4192-2.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-4194-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-4194.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-4198-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-4198.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-4199-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-4199.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/p1060285-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p1060285.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/p1060289-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p1060289.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/p1060290-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p1060290.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/p1060298-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p1060298.jpg",
+                "active": true
+              }
+            ],
+            "bgColor": "#efefef",
+            "showBullets": true
+          },
+          "_anchor": "gallery1-w",
+          "articleLayout": false
         },
         {
           "alias": "purity/components",
