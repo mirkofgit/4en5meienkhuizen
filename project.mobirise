@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 30,
+    "uniqCompNum": 32,
     "versionPublish": "3.10.5",
     "favicon": "@PROJECT_PATH@/assets/images/logo-stichting-128x113.png",
     "noImageResize": "true"
@@ -89,7 +89,7 @@
             ".mbr-section-title": {
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "84px",
+              "font-size": "100px",
               "text-align": "center"
             },
             "P": {
@@ -103,7 +103,7 @@
           },
           "_anchor": "content5-6",
           "_params": {
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
@@ -275,6 +275,31 @@
           "text1": "<b>Correspondentie adres</b><br>Stichting 4 &amp; 5 mei Anti discriminatie comité Enkhuizen<br><span style=\"font-size: 1rem; line-height: 1.5;\">Renee Mennes</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">Eiland 3</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">1601 KZ Enkhuizen</span><br>",
           "text2": "<b>E-mailadres</b><br><a href=\"mailto:4en5meiadcomite@gmail.com\" class=\"text-black\">4en5meiadcomite@gmail.com</a><br><span style=\"font-size: 1rem; line-height: 1.5;\">f: Volg ons op Facebook</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">g+: Volg ons op Google+</span><br>",
           "text3": "<b>Ooggetuigen</b><div><b>4en5mei.nl</b></div><div><b>bevrijdingsfestivals.nl</b></div><div><b>dedokwerker.nl&nbsp;</b></div><div><b>70 Jaar Bevrijding</b></div><div><b>Adopteer een monument</b></div><div><b>Februaristaking.nl</b></div><div><b>Kristallnacht</b></div><div><br></div>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-v",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#fbfbfb",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "counters": false,
+            "twitter": true,
+            "google": true
+          },
+          "text": ""
         }
       ]
     },
