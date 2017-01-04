@@ -105,11 +105,11 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/download-2000x1125_1.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/download-2000x1125-1.png",
             "bgColor": "#fbfbfb",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
