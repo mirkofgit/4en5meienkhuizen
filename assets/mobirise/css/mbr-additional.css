@@ -1,0 +1,94 @@
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext);
+
+
+
+#dropdown-menu-2btn-5 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-5 .navbar-brand a {
+  font-family: 'Indie Flower', cursive;
+}
+#dropdown-menu-2btn-5 .nav .link,
+#dropdown-menu-2btn-5 .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-2btn-5 .navbar,
+#dropdown-menu-2btn-5 .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-5 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-5 .dropdown-menu a:hover,
+#dropdown-menu-2btn-5 .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-5 .navbar-toggler {
+  color: #000000;
+}
+#content5-6 .mbr-section-title {
+  font-family: 'Indie Flower', cursive;
+  font-size: 84px;
+  text-align: center;
+}
+#content5-6 P {
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 18px;
+}
+#content5-6 DIV {
+  font-size: 18px;
+}
+#contacts1-b STRONG {
+  color: #000000;
+}
+#contacts1-b P {
+  color: #000000;
+}
+#contacts1-b UL {
+  color: #000000;
+}
+#contacts1-b DIV {
+  text-align: left;
+}
+#contacts1-b B {
+  color: #000000;
+}
+
+#dropdown-menu-2btn-c .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-c .navbar-brand a {
+  font-family: 'Indie Flower', cursive;
+}
+#dropdown-menu-2btn-c .nav .link,
+#dropdown-menu-2btn-c .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-2btn-c .navbar,
+#dropdown-menu-2btn-c .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-c .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-c .dropdown-menu a:hover,
+#dropdown-menu-2btn-c .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-c .navbar-toggler {
+  color: #000000;
+}
+#contacts1-d STRONG {
+  color: #000000;
+}
+#contacts1-d P {
+  color: #000000;
+}
+#contacts1-d UL {
+  color: #000000;
+}
+#contacts1-d DIV {
+  text-align: left;
+}
+#contacts1-d B {
+  color: #000000;
+}
